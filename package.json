@@ -4,7 +4,8 @@
   "description": "",
   "main": "clientSocketMiddleware.js",
   "scripts": {
-    "build": "babel src --out-dir dist"
+    "build": "babel src --out-dir dist",
+    "buildIndex": "babel indexes6.js --out-file index.js"
   },
   "keywords": [],
   "author": "",
